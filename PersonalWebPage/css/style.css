@@ -1,0 +1,32 @@
+body {
+    background-color: #FFFBE9;
+}
+
+hr {
+    border-style: none;
+
+    height: 2px;
+    width: 5%;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: rgb(188, 188, 188);
+}
+
+h1
+{
+    color: #CCD6A6;
+}
+
+h3
+{
+    color: #DAE2B6;
+}
+
+img
+{
+    object-fit: cover;
+    width: 170px;
+    height: 170px;
+    border-radius: 100%;
+    object-position: 0px -17px;
+}
